@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b937ccf7-0cdb-47e0-83f2-a0eb1dfaea51",
+    "username": "a",
+    "password": "$2b$12$cYQmy5m.6NGbqBuju4ROCOQY76oHz0atcbNhWqnOZo4oFRPR4fBEa",
+    "name": "a",
+    "image": "351bdbcc-f3d4-482c-bb50-102ed0c1562c.png"
+  },
+  {
+    "id": "b65febf3-418c-43f0-b795-f4818dd48f46",
+    "username": "b",
+    "password": "$2b$12$CboG5S59w9CoMA/MBEpAlOVigeieTaX1N55d.tswL76aVp0mMBSBa",
+    "name": "b",
+    "image": "27f24640-7768-4eb3-8cd3-c813de24621e.png"
+  }
+]
